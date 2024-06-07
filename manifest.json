@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "PhoChange",
+    "description": "Photo extension",
+    "version": "1.0",
+    "action": {
+      "default_popup": "jpg.html",
+      "default_icon": "avatar.png"
+    },
+
+
+"options_page": "jpg.html",
+  "icons": {
+    "48": "avatar.png",
+    "32": "avatar.png",
+    "16": "avatar.png",
+    "128": "avatar.png"
+  }
+
+}
